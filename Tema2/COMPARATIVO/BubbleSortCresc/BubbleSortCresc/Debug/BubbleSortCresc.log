@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+c:\users\vinicius borin\desktop\bubblesortcresc\bubblesortcresc\origem.cpp(12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  BubbleSortCresc.vcxproj -> C:\Users\Vinicius Borin\Desktop\BubbleSortCresc\Debug\BubbleSortCresc.exe
