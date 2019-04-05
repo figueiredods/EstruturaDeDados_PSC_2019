@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema2\bubblesort_randchar_p\bubblesort_randchar_p\origem.cpp(16): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema2\bubblesort_randchar_p\bubblesort_randchar_p\origem.cpp(15): warning C4101: 'j': variável local não referenciada
+  BubbleSort_RandChar_P.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSort_RandChar_P\Debug\BubbleSort_RandChar_P.exe
+  BubbleSort_RandChar_P.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSort_RandChar_P\Debug\BubbleSort_RandChar_P.pdb (Partial PDB)

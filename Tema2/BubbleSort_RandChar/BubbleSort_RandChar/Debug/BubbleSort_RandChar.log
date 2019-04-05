@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema2\bubblesort_randchar\bubblesort_randchar\origem.cpp(19): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  BubbleSort_RandChar.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSort_RandChar\Debug\BubbleSort_RandChar.exe
+  BubbleSort_RandChar.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSort_RandChar\Debug\BubbleSort_RandChar.pdb (Partial PDB)
