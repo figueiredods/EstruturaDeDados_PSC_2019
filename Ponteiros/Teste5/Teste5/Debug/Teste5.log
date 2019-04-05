@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\ponteiros\teste5\teste5\origem.cpp(13): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+  Teste5.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Ponteiros\Teste5\Debug\Teste5.exe
+  Teste5.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Ponteiros\Teste5\Debug\Teste5.pdb (Partial PDB)
