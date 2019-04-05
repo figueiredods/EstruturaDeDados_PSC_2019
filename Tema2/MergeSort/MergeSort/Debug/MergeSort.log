@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema2\mergesort\mergesort\origem.cpp(13): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  MergeSort.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\MergeSort\Debug\MergeSort.exe
+  MergeSort.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\MergeSort\Debug\MergeSort.pdb (Partial PDB)
