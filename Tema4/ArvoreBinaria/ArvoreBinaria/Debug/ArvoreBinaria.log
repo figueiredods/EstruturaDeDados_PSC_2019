@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema4\arvorebinaria\arvorebinaria\origem.cpp(115): warning C4715: 'buscar': nem todos os caminhos de controle retornam um valor
+  ArvoreBinaria.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\ArvoreBinaria\Debug\ArvoreBinaria.exe
+  ArvoreBinaria.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\ArvoreBinaria\Debug\ArvoreBinaria.pdb (Partial PDB)

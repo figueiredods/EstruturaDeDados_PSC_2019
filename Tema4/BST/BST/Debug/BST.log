@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema4\bst\bst\origem.cpp(15): warning C4101: 'pos': variável local não referenciada
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema4\bst\bst\origem.cpp(15): warning C4101: 'res': variável local não referenciada
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema4\bst\bst\origem.cpp(123): warning C4715: 'Buscar': nem todos os caminhos de controle retornam um valor
+  BST.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\Debug\BST.exe
+  BST.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\Debug\BST.pdb (Partial PDB)
