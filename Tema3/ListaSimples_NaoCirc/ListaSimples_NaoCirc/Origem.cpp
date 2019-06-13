@@ -137,7 +137,7 @@ void InserirMeio(int num, int posicao)
 
 	NovoElemento->dado = num;
 
-	if (posicao == 0)
+	if (Head == NULL) //verifica se o head é nulo
 	{
 		Head = NovoElemento;
 		Head->prox = NULL;
@@ -145,12 +145,17 @@ void InserirMeio(int num, int posicao)
 	else
 	{
 		ElementoVarredura = Head;
-		for (int i = 0; i < posicao - 1; i++)
-			ElementoVarredura = ElementoVarredura->prox;
+		if (posicao != 0) { //verifica se a posição informada é diferente de zero
+			for (int i = 0; i < posicao - 1; i++)
+				ElementoVarredura = ElementoVarredura->prox;
 
-		ElementoAuxiliar = ElementoVarredura->prox;
-		ElementoVarredura->prox = NovoElemento;
-		NovoElemento->prox = ElementoAuxiliar;
+			ElementoAuxiliar = ElementoVarredura->prox;
+			ElementoVarredura->prox = NovoElemento;
+			NovoElemento->prox = ElementoAuxiliar;
+		} else { //caso a posição informada seja zero, o número será o novo head
+			Head = NovoElemento;
+			Head->prox = ElementoVarredura;
+		}
 	}
 }
 
